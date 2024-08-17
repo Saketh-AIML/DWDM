@@ -37,19 +37,5 @@ Load initial data using the provided scripts.
 
 Set up the ETL pipeline to load data into the Data Warehouse.
 
-Data Warehouse Design
-  The Data Warehouse is designed with the following schema:
-
-  1.Fact Tables: [Your Fact Tables]
-  2.Dimension Tables: [Your Dimension Tables]
-  3.Relationships: [Your Schema Diagram or Explanation]
-
-Data Mining Techniques
-  The following data mining techniques are applied:
-
-  1.Classification: [Algorithm, e.g., Decision Trees]
-  2.Clustering: [Algorithm, e.g., K-Means]
-  3.Association Rule Mining: [Algorithm, e.g., Apriori]
-
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
