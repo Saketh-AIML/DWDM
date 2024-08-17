@@ -21,6 +21,7 @@ Installation
 To set up the project locally, follow these steps:
 
 1.Clone the Repository:
+
 ![image](https://github.com/user-attachments/assets/7e98dcda-cd17-4116-9006-0f04f0147354)
 
 2.Install Dependencies:
