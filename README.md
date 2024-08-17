@@ -29,10 +29,12 @@ Ensure that you have the required tools and libraries installed (e.g., Python, D
 ![image](https://github.com/user-attachments/assets/5d603b08-62ac-4d64-93e5-591b22b13ed3)
 
 3.Set Up the Database:
+
 Create the necessary databases and tables as per the Data Warehouse design.
 Load initial data using the provided scripts.
 
 4.Configure ETL Process:
+
 Set up the ETL pipeline to load data into the Data Warehouse.
 
 Data Warehouse Design
